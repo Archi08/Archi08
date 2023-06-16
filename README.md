@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://camo.githubusercontent.com/1ce59f44f7fb75f577cf177f72276c16becd61c2ec933d5f4422f21d5b58f63b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d706f73746d616e2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e)">
+ <img alt="YOUR-ALT-TEXT" src="https://img.icons8.com/?size=60&id=nNuiDD7cPWnS&format=png">
 </picture>
+
 
 <!--
 **Archi08/Archi08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
